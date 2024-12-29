@@ -1,7 +1,10 @@
 streamlit
+streamlit-option-menu
 joblib
 pandas
-scipy
-pyclustering
 numpy
-streamlit-option-menu
+scipy
+matplotlib
+seaborn
+sklearn
+pyclustering
