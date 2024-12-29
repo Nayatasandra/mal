@@ -1,2 +1,7 @@
 streamlit
 joblib
+pandas
+scipy
+pyclustering
+numpy
+streamlit-option-menu
